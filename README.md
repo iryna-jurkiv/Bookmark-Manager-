@@ -1,5 +1,5 @@
-#Bookmark Manager 
-##User Story 1:
+# Bookmark Manager
+## User Story 1:
 
 As a user,
 So I can keep track of useful webpages,
